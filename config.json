@@ -1,0 +1,5 @@
+{
+  "insight": "https://insight.bitpay.com/api",
+  "pricesUrl": "https://bitpay.com/api/rates",
+  "httpPort": 8080
+}
