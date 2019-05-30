@@ -1,3 +1,4 @@
+## DEPRECATED
 ## NOTICE: End of work notice
 
 Due to lack of time, support, and resources, the Coinpunk project is currently not under active development. See [the announcement](http://coinpunkblog.neocities.org).
